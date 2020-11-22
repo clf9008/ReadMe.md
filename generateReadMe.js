@@ -30,5 +30,4 @@ ${answers.questions}<br />
 ✉Email me with any questions: ${answers.email}<br /><br />
     `;
   }
-  
   module.exports = generateReadme;

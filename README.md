@@ -1,9 +1,9 @@
 
-<h1 align="center"></h1>
+<h1 align="center">ReadMe.md Generator</h1>
   
 ![badge](https://img.shields.io/badge/license-undefined-brightgreen)<br />
 ## Description
-
+An application that generates a professional Readme.MD through the command line prompt.
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,21 +13,17 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-
+Installation of Node.js and Inquirer
 ## Usage
-
-## License
-![badge](https://img.shields.io/badge/license-undefined-brightgreen)
-<br />
-This application is covered by the undefined license. 
+To generate profesional looking readme.md's in a fraction of the time so the user can spend more time coding.
 ## Contributing
-
+Chase 
 ## Tests
-
+No
 ## Questions
+Contact chase<br />
 <br />
+:octocat: Find me on GitHub: [clf9008](https://github.com/clf9008)<br />
 <br />
-:octocat: Find me on GitHub: [](https://github.com/)<br />
-<br />
-✉Email me with any questions: <br /><br />
+✉Email me with any questions: chase.logan.follett@gmail.com<br /><br />
     
